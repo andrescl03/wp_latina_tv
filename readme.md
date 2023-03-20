@@ -2,7 +2,7 @@
 - MySQL 8.0.16
 - Wordpress versión 6.1.1
 - Proyecto levantado con localwp
-
+- Crear database llamado local
 
 usuario de wordpress:
 
